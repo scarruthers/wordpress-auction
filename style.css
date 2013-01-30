@@ -1,0 +1,23 @@
+div.cc_container {}
+div.col { float: left; width: 16%; padding: 5px 5px; }
+
+span.edit_form_img_span { width: 100px; height: 100px; float: left; padding: 5px; }
+
+
+div.bold, .bold, div .bold { margin-bottom: 4px; font-weight: bolder; }
+
+hr { color: #000; height: 1px; border: 0px; background-color: #333; width: 90%; margin-right: 10%; }
+
+.user_msg { margin: 5px;
+	 font-weight: bolder;
+	 clear: both;
+	 color: #CD5C5C; }
+
+/* tooltip styling. by default the element to be styled is .tooltip  */
+
+
+.tooltip_div a {
+	color: #FFFFFF
+}
+
+.tooltip_div {color:#000000; display:none; background:#59738a; opacity:0.9; filter:alpha(opacity=90); z-index:99; padding:15px; border:2px solid #002d62; -moz-border-radius:4px; -webkit-border-radius:4px; border-radius:4px; behavior:url(pie.htc); position:relative; min-width:120px !important; min-height:30px !important; margin:0 !important; max-width:300px}
